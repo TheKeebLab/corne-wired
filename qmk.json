@@ -1,0 +1,40 @@
+{
+  "userspace_version": "1.1",
+  "build_targets": [
+    [
+      "crkbd/rev1",
+      "qwerty_us",
+      {
+        "CONVERT_TO": "sparkfun_pm2040"
+      }
+    ],
+    [
+      "crkbd/rev1",
+      "azerty_fr",
+      {
+        "CONVERT_TO": "sparkfun_pm2040"
+      }
+    ],
+    [
+      "crkbd/rev1",
+      "qwertz_de",
+      {
+        "CONVERT_TO": "sparkfun_pm2040"
+      }
+    ],
+    [
+      "crkbd/rev1",
+      "qwerty_it",
+      {
+        "CONVERT_TO": "sparkfun_pm2040"
+      }
+    ],
+    [
+      "crkbd/rev1",
+      "qwerty_es",
+      {
+        "CONVERT_TO": "sparkfun_pm2040"
+      }
+    ]
+  ]
+}
